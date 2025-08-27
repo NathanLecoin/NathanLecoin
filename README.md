@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Nathan  
 
+<!-- 
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NathanLecoin.NathanLecoin)
 
 </div>
+-->
+
 
 🎓 Final-year engineering student at **ESIEE Paris**, specializing in **Data Science & Artificial Intelligence**  
 💡 Enthusiast about **LLMs, Generative AI, and Predictive AI**, always eager to explore new AI frameworks  
