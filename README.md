@@ -15,7 +15,6 @@
 🌍 Based in France, open to collaborations and innovative projects  
 🎿 Outside of tech: skiing & snowboarding, music & cinema  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -41,8 +40,7 @@
 
 </div>
 
-
---- 
+ 
 ## 🚀 Projects
 
 - [**Data Engineering Project**](https://github.com/NathanLecoin/DataEngineerProject)  
@@ -54,7 +52,6 @@
 - **Personal LLM** *(coming soon...)*  
   🧠 Developing a personal language model
 
----
 
 ## 📊 GitHub Stats  
 
