@@ -46,7 +46,7 @@
 - [**Prosod’IA – Innovation Award 2024**](https://github.com/NathanLecoin/Prosod-IA)  
   🏆 Award-winning academic project (ESIEE Paris) — AI-powered tool for early autism diagnosis using voice analysis (93% accuracy).  
   Tech: Python (Keras, Librosa), Matlab, PyInstaller (exe/app deployment)
-- [**Data Engineering Project**](https://github.com/NathanLecoin/DataEngineerProject)  
+- [**Spotify Scraper Pipeline**](https://github.com/NathanLecoin/Spotify-Scraper-Pipeline)  
   🎵 Full-stack data pipeline scraping Spotify trends with Scrapy, MongoDB, Elasticsearch & Flask API
 - [**Kaggle Competition – EUI Prediction**](https://github.com/NathanLecoin/kaggle-competition-EUI)  
   🤖 Machine learning model to predict building energy consumption
